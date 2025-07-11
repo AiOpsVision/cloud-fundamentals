@@ -1,5 +1,4 @@
-# [cloud-fundamentals](https://github.com/AiOpsVision/cloud-fundamentals/blob/main/Cloud%20Fundamentals.md)
-📘 Cloud Fundamentals  
+# 📘 [cloud-fundamentals](https://github.com/AiOpsVision/cloud-fundamentals/blob/main/Cloud%20Fundamentals.md)
 Welcome to **Cloud Fundamentals** — a beginner-friendly knowledge base created to help junior DevOps engineers and IT students build strong foundations in cloud computing and automation.
 
 ---
